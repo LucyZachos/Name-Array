@@ -1,6 +1,6 @@
 # Word Counter 📝
 
-A Java program that counts the number of words with more than 4 characters in a given list of student names.
+A Java program that counts the number of words with more than 4 characters in a given list of student names. This was created for academic purposes using Java.
 
 ## Features 🚀
 
@@ -35,3 +35,6 @@ Total number of student names with more than 4 characters:
 3
 
 ```
+## IDE 🖥️
+
+IntelliJ
